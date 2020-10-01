@@ -1,0 +1,18 @@
+
+  h2 {
+    color: green;
+  }
+  p {
+    color: blue;
+  }
+  h3 {
+    color:rgb(226, 212, 212) ;
+  }
+  
+
+  a {
+    width: 320px;
+    padding: 10px;
+    border: 5px solid rgb(209, 200, 200);
+    margin: 0;
+  }
